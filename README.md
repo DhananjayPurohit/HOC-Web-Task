@@ -10,3 +10,5 @@
 
 4. Host the website on github-pages by going through this article:-
 https://link.medium.com/6TAVBlN9S4
+
+5. Share a link of the hosted website.

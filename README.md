@@ -8,4 +8,5 @@
 
 3. Make some customizations like write your name instead of Jane Doe, add your qualities.
 
-4. Share the screenshot or gif of the web page.
+4. Host the website on github-pages by going through this article:-
+https://link.medium.com/6TAVBlN9S4

@@ -1,4 +1,4 @@
-# ACM-Web-Task
+# Web-Task
 
 ![task](https://user-images.githubusercontent.com/44242169/75632057-56027f80-5c1e-11ea-9ac8-f3329b051de0.gif)
 
